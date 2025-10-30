@@ -11,7 +11,8 @@ int main()
        cout<<a;
        a=a+7;
       }
-     return 0
+     return 0;
     }
 
      
+
