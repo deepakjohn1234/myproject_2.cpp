@@ -2,7 +2,7 @@
 #include<iostream>
 #include<cstdio>
 using namespace std;
-in main()
+int main()
     {
      int a=7;
      cout<<"first 10 natural numbers divisible by 7 are";
@@ -13,4 +13,5 @@ in main()
       }
      return 0
     }
+
      
